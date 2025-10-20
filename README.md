@@ -17,14 +17,5 @@ After evalutation, the VIT_B_16 feature extranctor model was chosen for deployme
 * Fine-tuned for **5 flower classes**  
 * Pretrained weights: `pretrained_vit_festure_extractor_flower_classification.pth`
 
-## Files
-flower_classification/
-├── app.py # inference script for hugging face space
-├── flowers_classification.ipynb # Training, evaluation and deployment notebook
-├── model.py # Model definition for hugging face space
-├── pretrained_vit_festure_extractor_flower_classification.pth # state dictionary for vit model
-├── requirements.txt
-└── examples/ # Sample images for the hugging face space
-
 ## sample output (from huggingface space)
 <img width="1616" height="810" alt="image" src="https://github.com/user-attachments/assets/0b361965-07f2-4f0a-8c03-8568c6045d9c" />
