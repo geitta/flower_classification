@@ -7,6 +7,7 @@ Threee feature extractor models were used:
 * VIT_B_16
 * ResNet50
 * EffNet_B2
+
 After evalutation, the VIT_B_16 feature extranctor model was chosen for deployment.
 
 ## Try it here
